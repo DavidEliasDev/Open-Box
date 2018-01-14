@@ -26,7 +26,7 @@ Open Box é um sistema de controle de estoque usando o famoso framework Cake PHP
 
 ## Authors
 
-* **David Elias** - *Initial work* - [
+* **David Elias**
 
 Veja também a lista de [contribuidores](https://github.com/your/project/contributors) who participated in this project.
 
