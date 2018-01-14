@@ -2,13 +2,18 @@
 
 Open Box é um sistema de controle de estoque usando o famoso framework Cake PHP
 
-## Getting Started
+## O que tem dentro?
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+* Sistema de adicionar produto
+* Sistema de valor
+* Sistema de editar produto e deletar[Em breve]
+* Sistema de autorização[Em Breve]
+* Sistema de aviso[Em breve]
 
-### Prerequisites
+### Pré-requisitos
 
-What things you need to install the software and how to install them
+* Acesso a banco de dado[SQL]
+* Apache[PHP]
 
 ```
 Give examples
