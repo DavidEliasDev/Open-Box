@@ -1,6 +1,6 @@
-# Project Title
+# Open Box
 
-One Paragraph of project description goes here
+Open Box é um sistema de controle de estoque usando o famoso framework Cake PHP
 
 ## Getting Started
 
