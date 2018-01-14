@@ -18,7 +18,7 @@ Open Box é um sistema de controle de estoque usando o famoso framework Cake PHP
 
 ## Feito com
 
-* [Cake PHP](https://cakephp.org/) - The web framework used
+* [Cake PHP](https://cakephp.org/) - Framework web usado
 
 
 ## Contributing
